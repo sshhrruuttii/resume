@@ -1,0 +1,126 @@
+#main{
+
+  text-align: center;
+  background-color: #d99879;
+  padding-bottom: 100px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+
+}
+.navbar{
+  height: 100px;
+  font-weight: bold;
+  font-size: 2rem;
+    font-family: 'Dancing Script', cursive;
+
+}
+.nav-item{
+  padding:10px
+}
+.name{
+
+    background-color: #f4cca4 ;
+    width:50%;
+    margin:50px auto;
+}
+.container{
+
+}
+.heading{
+  text-align: left;
+  background-color: #f4cca4
+}
+
+
+
+
+
+.profile{
+  width:30%;
+  border-radius: 100%
+}
+#academics{
+  text-align: center;
+  background-color: #f4cca4;
+  padding:50px
+}
+.acadheading{
+  width: 50%;
+  background-color: #d99879;
+  margin:50px auto 50px auto;
+    font-family: 'Dancing Script', cursive;
+    font-size: 2.5rem;
+
+}
+.acaditems{
+  background-color: #d99879;
+  padding:50px;
+  width:70%;
+  margin:50px auto 50px auto;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+#skills{
+  text-align: center;
+  background-color:#d99879;
+  padding: 50px;
+    font-family: 'Dancing Script', cursive;
+
+
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  background-color: #f4cca4;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-weight: bold;
+
+}
+.code{
+  float:left;
+  margin-right: 30px;
+
+}
+.web{
+  float:right;
+
+}
+#contact{
+  text-align: center;
+  background-color: #f4cca4;
+  padding:20px;
+}
+.connect{
+  padding:30px;
+}
+.btn{
+  margin:50px;
+  background: #9900d6;
+  background-image: -webkit-linear-gradient(top, #9900d6, #e300d4);
+  background-image: -moz-linear-gradient(top, #9900d6, #e300d4);
+  background-image: -ms-linear-gradient(top, #9900d6, #e300d4);
+  background-image: -o-linear-gradient(top, #9900d6, #e300d4);
+  background-image: linear-gradient(to bottom, #9900d6, #e300d4);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #012c47 2px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #2cbd31;
+  background-image: -webkit-linear-gradient(top, #2cbd31, #3498db);
+  background-image: -moz-linear-gradient(top, #2cbd31, #3498db);
+  background-image: -ms-linear-gradient(top, #2cbd31, #3498db);
+  background-image: -o-linear-gradient(top, #2cbd31, #3498db);
+  background-image: linear-gradient(to bottom, #2cbd31, #3498db);
+  text-decoration: none;
+}
+#contact{
+  font-family: 'Montserrat', sans-serif;
+}
